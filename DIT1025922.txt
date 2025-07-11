@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<HTML>
+<HEAD>
+
+<TITLE>MY SELF</TITLE>
+
+</HEAD>
+
+<BODY>
+
+<u><H1>MY SELF</H1></u>
+
+<IMG src="sanuli_b.jpg" style="width:200px;"><ul>
+
+
+<li>My Name Is Sanuli Binara.</li>
+
+<li>I live in Dummalasuriya.</li>
+
+<li>I am Nineteen years old.</li>
+
+
+<li>My school was J.R Jayawardhana National School.</li>
+
+<li>My hobby is reading books.</li>
+
+<li>I have a total of Four members in my family.</li>
+
+<li>My favourite drink is orange juice.</li>
+
+<li>My father's name is Linkan Ardley.</li>
+
+<li>My mother's name is Jayani Umanga.</li>
+
+<li>I have a sister.</li>
+
+
+<li>My ambition is to be a teacher.</li>
+
+
+
+</ul>
+
+</BODY>
+</HTML>
